@@ -4,3 +4,5 @@ __pycache__/
 models/
 outputs/
 *.zip
+*.DS_Store
+*.log
