@@ -2,7 +2,6 @@ pandas
 numpy
 scikit-learn
 matplotlib
-seaborn
 jupyter
 joblib
 shap
