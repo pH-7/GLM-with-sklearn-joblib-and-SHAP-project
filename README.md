@@ -1,5 +1,9 @@
 # GLM Learning Project (scikit-learn + SHAP + PDF)
 
+[![Learn with a real world project GLM Pipeline scikit-learn + SHAP + PDF](https://i1.ytimg.com/vi/50q_Wx6Ihb4/sddefault.jpg)](https://youtu.be/50q_Wx6Ihb4 "Learn with a real world project GLM Pipeline scikit-learn + SHAP + PDF")
+
+[→ Click here to watch on YouTube](https://youtu.be/50q_Wx6Ihb4)
+
 This is a learning project to understand **Generalised Linear Models** using Python's scikit-learn, with SHAP explainability and automated PDF reporting.
 
 ## 👋 Author
